@@ -2,7 +2,7 @@ import telebot
 import requests
 
 # Your Configuration
-API_TOKEN = '8595456604:AAGlEtvAhPivise3M-nXB7xguqHicQdxAP4'
+API_TOKEN = '8943004490:AAHb5IQn4-aHWOdkow3QYTpN3bc5IPoxr2Y'
 bot = telebot.TeleBot(API_TOKEN)
 
 @bot.message_handler(commands=['like'])
